@@ -19,7 +19,7 @@ Link to the official SFML 2.5.1 setup guide
    ```
 2. Open the project in your IDE or create a new one, then add all `.cpp` and `.h` files.  
 3. Configure SFML (see guide above).  
-4. Link SFML libraries
+4. Link SFML libraries.
 5. Build and run the project.  
 
 ## Run
