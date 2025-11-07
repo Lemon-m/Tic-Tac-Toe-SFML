@@ -1,6 +1,6 @@
 # Tic Tac Toe SFML
 
-Simple C++ Tic Tac Toe game made with SFML library.
+Simple C++ Tic Tac Toe game made with the SFML library.
 
 ## Requirements
 - C++17
